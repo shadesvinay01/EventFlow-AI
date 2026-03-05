@@ -184,3 +184,67 @@ The system sources high-intent professionals from LinkedIn, engages them with hy
 
 <div align="center">
   
+┌─────────────┐ ┌─────────────┐ ┌─────────────┐
+│ │ │ │ │ │
+│ 🔍 │ │ ✍️ │ │ 💰 │
+│ DISCOVER │ ──> │ ENGAGE │ ──> │ CONVERT │
+│ │ │ │ │ │
+└─────────────┘ └─────────────┘ └─────────────┘
+
+
+</div>
+
+### Detailed Flow
+Step 1: Event Organizer Inputs Event Details
+↓
+Step 2: AI Prospector Scans LinkedIn
+↓
+Step 3: Finds 1000+ Decision Makers
+↓
+Step 4: Deep Research on Each Prospect
+↓
+Step 5: Generate Personalized Messages
+↓
+Step 6: Send Multi-Channel Outreach
+↓
+Step 7: Track Responses & Engagement
+↓
+Step 8: BANT Qualification
+↓
+Step 9: Lead Score Decision
+├── >80% → HOT LEAD → Send Payment Link
+├── 65-80% → WARM LEAD → Follow-up in 3 Days
+├── 50-65% → COOL LEAD → Nurture Sequence
+└── <50% → COLD LEAD → Newsletter
+↓
+Step 10: Track Revenue Attribution
+↓
+Step 11: Generate Reports & Analytics
+
+⚡ Quick Start
+Prerequisites
+
+---
+
+## ⚡ Quick Start
+
+### Prerequisites
+
+- ✅ Python 3.8 or higher
+- ✅ pip package manager
+- ✅ OpenAI API key (for AI messages)
+- ✅ Gmail account (for email sending)
+- ✅ LinkedIn account (for prospecting)
+
+### One-Line Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/EventFlowAI.git
+cd EventFlowAI
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the Jupyter notebook
+jupyter notebook EventFlowAI_Complete_v1.0.ipynb
