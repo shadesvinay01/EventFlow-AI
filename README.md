@@ -41,7 +41,7 @@
 - [📁 Project Structure](#-project-structure)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
-- [📞 Contact](#-contact)
+
 
 ---
 
@@ -58,7 +58,7 @@ The system sources high-intent professionals from LinkedIn, engages them with hy
 
 ## ❓ Problem Statement
 
-### Event Organizers की 6 बड़ी PROBLEMS:
+### Event Organizers 6 PROBLEMS:
 
 | # | Problem | Impact |
 |---|---------|--------|
