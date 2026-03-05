@@ -1,0 +1,30 @@
+# Core Dependencies
+openai==1.12.0
+pandas==2.1.4
+numpy==1.26.3
+python-dotenv==1.0.0
+
+# Web/API
+requests==2.31.0
+beautifulsoup4==4.12.3
+selenium==4.18.1
+
+# ML & Analytics
+scikit-learn==1.4.0
+matplotlib==3.8.2
+seaborn==0.13.2
+plotly==5.18.0
+
+# Communication
+yagmail==1.6.5
+twilio==8.10.0
+razorpay==1.3.2
+
+# Utilities
+schedule==1.2.0
+tqdm==4.66.2
+colorama==0.4.6
+
+# Jupyter (for notebook)
+jupyter==1.0.0
+ipykernel==6.29.0
